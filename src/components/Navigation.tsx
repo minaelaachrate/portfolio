@@ -25,7 +25,7 @@ const Navigation = () => {
       <div className="fixed left-6 top-[27.5%] transform -translate-y-1/2 z-50 flex flex-col items-center gap-4">
         <div className="w-px h-32 bg-[#b3bbd1]"></div>
         <a
-          href="https://github.com"
+          href="https://github.com/minaelaachrate"
           className="text-[#b3bbd1] hover:text-[#4a5c78] transition-colors"
           target="_blank"
           rel="noopener noreferrer"
@@ -33,7 +33,7 @@ const Navigation = () => {
           <Github size={20} />
         </a>
         <a
-          href="https://linkedin.com"
+          href="www.linkedin.com/in/mina-el-aachrate-0a59b5293"
           className="text-[#b3bbd1] hover:text-[#4a5c78] transition-colors"
           target="_blank"
           rel="noopener noreferrer"
